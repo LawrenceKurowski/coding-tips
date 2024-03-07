@@ -9,5 +9,5 @@ Anyway, the way I fixed:
 ```bash
 sudo gem install -n /usr/local/bin jekyll
 ```
-and worked.
+and worked. This from [here](https://stackoverflow.com/questions/8146249/jekyll-command-not-found)
 
